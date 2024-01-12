@@ -3,7 +3,7 @@ package rtorrentexporter
 import (
 	"log"
 
-	"github.com/mdlayher/rtorrent"
+	"github.com/Thijn/rtorrent"
 	"github.com/prometheus/client_golang/prometheus"
 )
 
