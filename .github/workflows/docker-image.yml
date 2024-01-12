@@ -15,6 +15,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag rtorrent_exporter
+      run: docker build . --file Dockerfile --tag ghcr.io/thijn/rtorrent_exporter
     - name: Publish
       run: docker push ghcr.io/thijn/rtorrent_exporter:latest
