@@ -17,4 +17,4 @@ jobs:
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag rtorrent_exporter
     - name: Publish
-      run: docker push ghcr.io/Thijn/rtorrent_exporter:latest
+      run: docker push ghcr.io/thijn/rtorrent_exporter:latest
