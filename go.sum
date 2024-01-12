@@ -1,5 +1,7 @@
 github.com/Thijn/rtorrent v0.0.0-20240112143615-37665f922ce0 h1:Ya+s8xSRndZ770f9ISHrCz2v5mMtFqKDk80CLxxRV4I=
 github.com/Thijn/rtorrent v0.0.0-20240112143615-37665f922ce0/go.mod h1:DRtgs+hRdANopz6NrKclACtZrah2ALp1m7UnEpbY58A=
+github.com/Thijn/rtorrent v0.0.0-20240112203139-882bac4069a1 h1:A+3aMr1BvEnN8cp2JSgh8IcAJ9omNC9BEFBXzc7qx/s=
+github.com/Thijn/rtorrent v0.0.0-20240112203139-882bac4069a1/go.mod h1:DRtgs+hRdANopz6NrKclACtZrah2ALp1m7UnEpbY58A=
 github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf/go.mod h1:ybxpYRFXyAe+OPACYpWeL0wqObRcbAqCMya13uyzqw0=
